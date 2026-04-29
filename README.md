@@ -1,14 +1,14 @@
 # ☺️Hello everyone, Welcome to my GitHub!
 
-||<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=&color=0&text=SUPER-HELOIS&textBg=false&section=header&fontColor=ff1493&animation=twinkling&stroke=ff1493&desc=Front-End%20Developer%20|%20Back-End%20Developer%20|%20App%20|%20DevOps%20Engineer&descAlignY=70&descSize=20&fontAlignY=30&strokeWidth=2" alt="Super-Helois - Full Stack Developer" />
+p align="center">
+  img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=&color=0&text=SUPER-HELOIS&textBg=false&section=header&fontColor=ff1493&animation=twinkling&stroke=ff1493&desc=Front-End%20Developer%20|%20Back-End%20Developer%20|%20App%20|%20DevOps%20Engineer&descAlignY=70&descSize=20&fontAlignY=30&strokeWidth=2" alt="Super-Helois - Full Stack Developer" />
 </p>
 
 ![profile views](https://komarev.com/ghpvc/?username=Alucinado-dev)
 
 ## 💻 Technologies I Mastered
 
-<div align="center">
+div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -30,7 +30,7 @@
 
 ## 📩 Contact me via following method:
 
-<div align="center">
+div align="center">
   <a href="https://www.linkedin.com/in/Super-Helois1125/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="91" height="40" alt="linkedin logo"  />
   </a>
@@ -54,17 +54,17 @@ my technical expertise and contribute to the success of the team.
 
 ###
 
-<div align="center">
+div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alucinado-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alucinado-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   
-  <img src="https://streak-stats.demolab.com?user=Alucinado-dev&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  img src="https://streak-stats.demolab.com?user=Alucinado-dev&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   
 </div>
 
 ## 🎧 My vibe right now
 
-<div align="center">
+div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count=10" alt="Spotify recently played"  />
 </div>
 ||
